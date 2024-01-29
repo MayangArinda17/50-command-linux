@@ -244,7 +244,6 @@ Perintah 'touch' digunakan untuk membuat file kosong di sistem operasi mirip Uni
 
 ![91](https://github.com/MayangArinda17/50-command-linux/assets/150981696/2767024b-ca24-4dc8-8d41-df346297ae78)
 
-![91](https://github.com/MayangArinda17/50-command-linux/assets/150981696/e20c7c94-569e-4a3a-adf1-f1fd8eaa45ff)
 
 46.fg
 Mengembalikan proses dari latar belakang ke depan
@@ -258,9 +257,23 @@ Mengirim proses ke latar belakang.
 
 48.lsblk 
 Menampilkan informasi blok perangkat penyimpanan.
+
+
+
+![2024-01-29_18-35](https://github.com/MayangArinda17/50-command-linux/assets/150981696/2b2b813a-f00d-4c44-8e1c-d8705c06d4d0)
+
+
+
 49.killall -V
+"Digunakan untuk menampilkan informasi versi perangkat lunak (version) dari perintah tersebut."
+
+
+
+![2024-01-29_18-36](https://github.com/MayangArinda17/50-command-linux/assets/150981696/56eb4690-009b-48e4-a7c1-0cacc054dfed)
+
 
 50.timedatect1
+"Perintah pada sistem operasi Linux yang digunakan untuk mengonfigurasi dan menampilkan informasi waktu dan tanggal sistem."
 
 
 
